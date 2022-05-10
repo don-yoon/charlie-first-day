@@ -5,15 +5,20 @@
 ### Vocabulary
 - git
     - software used to interact with GitHub
+    - software that creates version control
 - GitHub
     - cloud service used for version control
+    - online platform that uses git technology  
 - branch
     - interaction between local and remote
-- remote and local
-    - remote is GitHub and local is your personal machine
+- remote
+    - GitHub or any online code storage space
+- local
+    - your computer
 - repo (repository)
     - named folder
 - clone
     - copy from GitHub to working directory
+    - taking a repo from the remote and putting it on our local
 - push and pull
     - send and receive from GitHub
