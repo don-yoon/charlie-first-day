@@ -24,8 +24,8 @@
     - send and receive from GitHub
 
 ### Git Workflow
-- informational commands: ls, pwd, git status
-- git add <file-name>
-- git commit -m "meaningful message about changes"
-- git push origin <branch-name>
+- informational commands: `ls`, `pwd`, `git status`
+- `git add <file-name>`
+- `git commit -m "meaningful message about changes"`
+- `git push origin <branch-name>`
 
