@@ -22,3 +22,10 @@
     - taking a repo from the remote and putting it on our local
 - push and pull
     - send and receive from GitHub
+
+### Git Workflow
+- informational commands: ls, pwd, git status
+- git add <file-name>
+- git commit -m "meaningful message about changes"
+- git push origin <branch-name>
+
